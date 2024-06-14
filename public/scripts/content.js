@@ -50,14 +50,6 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         const container = document.getElementById('player-container-outer');
         console.log(container);
 
-        const badge = document.createElement("p");
-        // Use the same styling as the publish information in an article's header
-        badge.innerText = `min read`;
-        badge.style.color = 'red';
-
-        console.log(badge);
-        container.parentNode.appendChild(badge);
-
         try {
             const videoList = document.querySelectorAll('video');
             const singleVideo = videoList[0];
