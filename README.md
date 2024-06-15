@@ -1,4 +1,4 @@
-# Manifest V3 Hot Reload React Template for Chrome Extension
+# YouTube Video Flipper: mirrors your current YouTube video so that you can watch it on your mirror from the kitchen while working (:
 
 ## Available Scripts
 
