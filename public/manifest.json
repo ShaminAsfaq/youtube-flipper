@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "React Extension",
-  "description": "Base Level Extension",
+  "name": "YouTube Flipper",
+  "description": "This extension will mirror your YouTube video if you are in your kitchen and have to look at your monitor/TV through mirror!",
   "version": "1.0",
   "action": {
-    "default_popup": "index.html"
+    "default_icon": "icons/blue.png"
   },
   "content_scripts": [
     {
