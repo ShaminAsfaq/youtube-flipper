@@ -17,4 +17,4 @@ After the generation of `/dist` folder, use that as you extension directory.
 
 ## Credits
 
-Shout-Out to **[Tidis Ventures](https://www.youtube.com/@tidisventures305)** for his awesome tutorial.
+Shout-Out to **[Tidis Ventures](https://www.youtube.com/@tidisventures305)** for his awesome tutorial on hot-reload.
